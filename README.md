@@ -1,3 +1,5 @@
+# FAKE!!!
+
 # Command :
 
 pkg update
