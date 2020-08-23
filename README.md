@@ -12,7 +12,7 @@ pkg install python2
 
 Pkg install sh
 
-git clone https://github.com/Amar-star1/lacaknomor
+git clone https://github.com/Amar-star1/Reset-HP/reset
 
 cd lacaknomor
 
