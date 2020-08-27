@@ -14,6 +14,6 @@ Pkg install sh
 
 git clone https://github.com/Amar-star1/Reset-HP
 
-cd lacaknomor
+cd Reset-HP
 
-sh lacaknomor.sh
+sh reset.sh
